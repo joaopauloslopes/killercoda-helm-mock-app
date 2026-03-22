@@ -3,4 +3,4 @@ message: "Interesting learning curve, keep going !  You rock!!!!!!!!!!!"
 image:
   repository: benmalekarim/mock-app
   tag: v1.1.0
-replicas: 3
+replicas: 1
